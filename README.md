@@ -1,4 +1,4 @@
-# CarManager App
+# CarManager
 
 ## Description
 
